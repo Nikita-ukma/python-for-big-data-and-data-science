@@ -1,1 +1,1 @@
-print("Tieliehin Nikita, 3-2024")
+print("Tieliehin Nikita, 3-2025")
